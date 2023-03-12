@@ -1,0 +1,9 @@
+###
+POST htpp://localhost:9000/api/users HTTP/1.1
+Content-Type: application/json
+
+{
+
+    "name": "Joshua Meza",
+    "age":"20"
+}
